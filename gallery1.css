@@ -1,7 +1,12 @@
 body {
     background: #f2f2f2;
   }
-  
+  .wrap {
+    background-image: url(https://j.gifs.com/wV5lyM.gif);
+    background-repeat:repeat;
+    background-size: 100%;
+    background-color: #e06e6e;
+  }
   nav {
     background: #171c24;
     display: flex;
